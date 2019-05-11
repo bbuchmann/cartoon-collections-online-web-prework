@@ -9,7 +9,7 @@ def Roll_call_dwarves = Roll_call_dwarves.new
 end
 
 def Summon_captain_planet = ["puff","go","two"]
-  Summon_captain_planet.map 
+  Summon_captain_planet.map {|name| name.capitalize }
 end
 
 def long_planeteer_calls# code an argument here
