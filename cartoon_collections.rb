@@ -9,6 +9,7 @@ def Roll_call_dwarves = Roll_call_dwarves.new
 end
 
 def Summon_captain_planet = ["puff","go","two"]
+  Summon_captain_planet = 
 end
 
 def long_planeteer_calls# code an argument here
