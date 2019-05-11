@@ -1,6 +1,4 @@
-def Roll_call_dwarves = Roll_call_dwarves.new ["Doc","Dopey","Bashful","Grumpy"]
-  
-  .each_with_index { |item,index|
+def Roll_call_dwarves = Roll_call_dwarves.new ["Doc","Dopey","Bashful","Grumpy"].each_with_index { |item,index|
 
 
 end
