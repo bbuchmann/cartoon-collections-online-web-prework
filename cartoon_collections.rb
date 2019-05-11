@@ -1,7 +1,7 @@
 def Roll_call_dwarves = ["Doc","Dopey","Bashful","Grumpy"]
   Hash = Hash.New 
   %w (Doc,Dopey,Bashful,Grumpy).each_with_index { |iten,index|
-  hash 
+  hash[item]
 
 end
 
