@@ -1,6 +1,6 @@
 def Roll_call_dwarves = ["Doc","Dopey","Bashful","Grumpy"]
   Hash = Hash.New 
-  %w 
+  %w (Doc,Dopey,Bashful,Grumpy)
 
 end
 
